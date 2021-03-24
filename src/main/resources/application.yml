@@ -1,0 +1,3 @@
+hackingproperties:
+ maxAttemps:5
+ attempsTimeout:5
